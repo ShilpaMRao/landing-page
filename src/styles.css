@@ -1,0 +1,53 @@
+.homePage{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.header .appBar {
+    background: none;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.header .appBar .headerWrapper {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 15px;
+    
+}
+.header .appBar .headerWrapper .appBarTitle .colortoSubtext {
+    color:rgb(110, 107, 107);
+    font-size: 2rem;
+}
+.body {
+    text-align: center;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.body .colortoSubTxt{
+    color:rgb(110, 107, 107);
+    font-size: 33px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.body .downArrow {
+    color:rgb(110, 107, 107);
+    font-size: 2.5rem;
+}
+
+
+
+.footer {
+    margin-top: -20px;
+  padding-top: 0;
+}
+      
